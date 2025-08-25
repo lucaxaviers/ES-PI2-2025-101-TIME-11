@@ -48,21 +48,21 @@ Idealizado no contexto da disciplina **Projeto Integrador 2 – Engenharia de So
                <a href="https://github.com/lucaxaviers"> 
                     <img src="https://avatars.githubusercontent.com/lucaxaviers" width="100px;" alt="Lucas Xavier"/> 
                     <br /> 
-                    <sub><b>Lucas Xavier</b></sub> 
+                    <b>Lucas Xavier</b> 
                </a> 
           </td> 
           <td align="center"> 
                <a href="https://github.com/Leo-Alves123"> 
                     <img src="https://avatars.githubusercontent.com/Leo-Alves123" width="100px;" alt="Leonardo Gambaroni Alves"/> 
                     <br /> 
-                    <sub><b>Leonardo Alves</b></sub> 
+                    <b>Leonardo Alves</b> 
                </a> 
           </td>
           <td align="center">
                <a href="https://github.com/mateusor">
                     <img src="https://avatars.githubusercontent.com/mateusor" width="100px;" alt="Mateus"/> 
                     <br /> 
-                    <sub><b>Mateus Oliveira</b></sub> 
+                    <b>Mateus Oliveira</b> 
                </a> 
           </td> 
      </tr> 
