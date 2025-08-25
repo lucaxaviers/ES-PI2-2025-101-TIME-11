@@ -1,4 +1,4 @@
-# 🌟 **NotaDez - Sistema Web de Gerenciamento de Notas** 🌟
+# 🌟 **NotaDez - Sistema Web de Gerenciamento de Notas** 
 
 ---
 
