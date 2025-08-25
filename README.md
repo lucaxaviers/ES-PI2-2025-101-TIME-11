@@ -1,38 +1,95 @@
-🌟 NotaDez - Sistema de Gerenciamento de Notas 🌟
-🏢 Sobre o Projeto
+# 🌟 **NotaDez - Sistema Web de Gerenciamento de Notas** 🌟
 
-Bem-vindo ao repositório do NotaDez! Este projeto é uma aplicação web desenvolvida para atender docentes do ensino superior, facilitando o gerenciamento autônomo e eficiente das notas dos alunos. O sistema oferece funcionalidades avançadas além dos sistemas institucionais tradicionais, com foco em praticidade, organização e acessibilidade.
+---
 
-O NotaDez foi desenvolvido no âmbito da disciplina Projeto Integrador 2 – Engenharia de Software da PUC-Campinas, ano 2025, pelo time 11 do PI_II_ES.
+## 🏢 **Sobre o Projeto**
 
-🚀 Funcionalidades Principais
+Bem-vindo ao repositório do **NotaDez**! Este sistema web foi desenvolvido para atender às necessidades dos docentes do ensino superior, oferecendo um gerenciamento autônomo, prático e eficiente das notas dos alunos, superando as limitações dos sistemas institucionais tradicionais.
 
-🏫 Gerenciamento Completo: Cadastre instituições, cursos, disciplinas e turmas com facilidade.
+Idealizado no contexto da disciplina **Projeto Integrador 2 – Engenharia de Software** (PUC-Campinas, 2025), o NotaDez proporciona controle detalhado sobre instituições, cursos, disciplinas, turmas, estudantes e componentes de nota.
 
-📥 Importação de Estudantes: Suporte para importação via arquivos CSV e JSON.
+---
 
-📝 Registro de Notas: Controle detalhado para múltiplos componentes como provas e trabalhos.
+## 🎯 **Objetivos**
 
-⚙️ Cálculo Automático: Defina fórmulas personalizadas para o cálculo automático da nota final.
+- Facilitar o cadastro de instituições, cursos, disciplinas e turmas.
+- Permitir a importação de estudantes via arquivos CSV e JSON.
+- Registrar e organizar notas em múltiplos componentes, como provas e trabalhos.
+- Definir fórmulas personalizadas para o cálculo automático da nota final.
+- Possibilitar ajustes manuais nas notas finais, respeitando regras de arredondamento.
+- Exportar dados completos em CSV e JSON para maior flexibilidade.
+- Manter um painel de auditoria com histórico detalhado de alterações nas notas.
 
-✍️ Ajustes Manuais: Permite ajustes manuais nas notas finais com regras de arredondamento.
+---
 
-📤 Exportação de Dados: Exporte dados completos em CSV e JSON.
+## 🚀 **Funcionalidades Principais**
 
-🔍 Painel de Auditoria: Histórico detalhado de alterações nas notas para maior transparência.
+- 🏫 Gestão completa de instituições, cursos, disciplinas e turmas  
+- 📥 Importação rápida de estudantes por CSV e JSON  
+- 📝 Registro detalhado para diversos componentes de nota  
+- ⚙️ Cálculo automático com fórmulas customizáveis  
+- ✍️ Ajustes manuais com regras de arredondamento integradas  
+- 📤 Exportação de dados nos formatos CSV e JSON  
+- 🔍 Auditoria e histórico completo das alterações de notas  
 
-🛠 Tecnologias Utilizadas
+---
 
-Ainda podemos inserir aqui as tecnologias específicas do projeto, conforme necessário.
+## 🛠 **Tecnologias Utilizadas**
 
-👥 Equipe
-<table> <tr> <td align="center"> <a href="https://github.com/lucaxaviers"> <img src="https://avatars.githubusercontent.com/lucaxaviers" width="100px;" alt="Lucas Xavier"/> <br /> <sub> <b>Lucas Rodrigues Xavier</b> </sub> </a> </td> <td align="center"> <a href="https://github.com/Leo-Alves123"> <img src="https://avatars.githubusercontent.com/Leo-Alves123" width="100px;" alt="Leonardo Gambaroni Alves"/> <br /> <sub> <b>Leonardo Gambaroni Alves</b> </sub> </a> </td> <td align="center"> <a href="https://github.com/mateusor"> <img src="https://avatars.githubusercontent.com/mateusor" width="100px;" alt="Mateus"/> <br /> <sub> <b>Mateus</b> </sub> </a> </td> </tr> </table>
-📚 Orientação
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)  
 
-Este projeto foi orientado pelos professores:
+---
 
-Prof. Me. Mateus Dias
+## 👥 **Equipe**
 
-Profa. Dra. Renata Arantes
+<table> 
+     <tr> 
+          <td align="center"> 
+               <a href="https://github.com/lucaxaviers"> 
+                    <img src="https://avatars.githubusercontent.com/lucaxaviers" width="100px;" alt="Lucas Xavier"/> 
+                    <br /> 
+                    <sub><b>Lucas Rodrigues Xavier</b></sub> 
+                    <br />
+                    RA: 25000508
+               </a> 
+          </td> 
+          <td align="center"> 
+               <a href="https://github.com/Leo-Alves123"> 
+                    <img src="https://avatars.githubusercontent.com/Leo-Alves123" width="100px;" alt="Leonardo Gambaroni Alves"/> 
+                    <br /> 
+                    <sub><b>Leonardo Gambaroni Alves</b></sub> 
+                    <br />
+                    RA: 65432
+               </a> 
+          </td>
+          <td align="center">
+               <a href="https://github.com/mateusor">
+                    <img src="https://avatars.githubusercontent.com/mateusor" width="100px;" alt="Mateus"/> 
+                    <br /> 
+                    <sub><b>Mateus</b></sub> 
+                    <br />
+                    RA: 112233
+               </a> 
+          </td> 
+     </tr> 
+</table>
 
-Prof. Dr. Luã Muriana
+---
+
+## 📚 **Orientação**
+
+Este projeto foi desenvolvido sob a orientação dos professores:
+
+- Prof. Me. Mateus Dias  
+- Profa. Dra. Renata Arantes  
+- Prof. Dr. Luã Muriana  
+
+---
+
+## **Atenciosamente, Time NotaDez!** (╯°□°）╯︵ ┻━┻
