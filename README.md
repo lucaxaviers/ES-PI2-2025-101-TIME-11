@@ -8,7 +8,7 @@ Bem-vindo ao repositório do **NotaDez**! Este sistema web foi desenvolvido para
 
 ---
 
-Projeto Integrador 2 – Engenharia de Software (PUC-Campinas, 2025)
+**Projeto Integrador 2 – Engenharia de Software (PUC-Campinas, 2025)**
 
 ---
 
