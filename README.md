@@ -48,7 +48,7 @@ Idealizado no contexto da disciplina **Projeto Integrador 2 – Engenharia de So
                <a href="https://github.com/lucaxaviers"> 
                     <img src="https://avatars.githubusercontent.com/lucaxaviers" width="100px;" alt="Lucas Xavier"/> 
                     <br /> 
-                    <sub><b>Lucas Rodrigues Xavier</b></sub> 
+                    <sub><b>Lucas Xavier</b></sub> 
                     <br />
                     RA: 25000508
                </a> 
@@ -57,7 +57,7 @@ Idealizado no contexto da disciplina **Projeto Integrador 2 – Engenharia de So
                <a href="https://github.com/Leo-Alves123"> 
                     <img src="https://avatars.githubusercontent.com/Leo-Alves123" width="100px;" alt="Leonardo Gambaroni Alves"/> 
                     <br /> 
-                    <sub><b>Leonardo Gambaroni Alves</b></sub> 
+                    <sub><b>Leonardo Alves</b></sub> 
                     <br />
                     RA: 65432
                </a> 
@@ -66,7 +66,7 @@ Idealizado no contexto da disciplina **Projeto Integrador 2 – Engenharia de So
                <a href="https://github.com/mateusor">
                     <img src="https://avatars.githubusercontent.com/mateusor" width="100px;" alt="Mateus"/> 
                     <br /> 
-                    <sub><b>Mateus</b></sub> 
+                    <sub><b>Mateus Oliveira</b></sub> 
                     <br />
                     RA: 112233
                </a> 
