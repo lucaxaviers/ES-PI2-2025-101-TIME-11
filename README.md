@@ -14,10 +14,24 @@ O projeto foi idealizado como parte da disciplina **Projeto Integrador 2**, orie
 
 ---
 
+## 🎯 Objetivo do Projeto
+
+Criar uma aplicação web 100% funcional que permita aos docentes:
+
+- Cadastrar instituições, cursos, disciplinas e turmas.
+- Importar estudantes via arquivos CSV ou JSON.
+- Registrar notas para múltiplos componentes (provas, trabalhos, etc.).
+- Definir fórmulas personalizadas para cálculo automático da nota final.
+- Ajustar notas finais manualmente, respeitando regras de arredondamento.
+- Exportar dados completos em formatos CSV e JSON.
+- Manter um painel de auditoria com histórico detalhado de alterações nas notas.
+
+---
+
 ## 👥 Equipe
 
 | Nome Completo           | RA       | GitHub                             |
 |-------------------------|----------|------------------------------------|
 | Lucas Rodrigues Xavier  | 25000508 | [@lucaxaviers](https://github.com/lucaxaviers) |
-| Ciclano de Exemplo      | 654321   | [@ciclanoexemplo](https://github.com/ciclanoexemplo) |
+| Leonardo Gambaroni Alves| 65432    | [@Leo-Alves123](https://github.com/Leo-Alves123) |
 | Beltrano da Silva       | 112233   | [@beltranodasilva](https://github.com/beltranodasilva) |
