@@ -1,38 +1,38 @@
-# NotaDez
-## - PI_II_ES_TIME-11
+🌟 NotaDez - Sistema de Gerenciamento de Notas 🌟
+🏢 Sobre o Projeto
 
-Sistema Web de Gerenciamento de Notas para Docentes do Ensino Superior  
-Desenvolvido no âmbito da disciplina Projeto Integrador 2 – Engenharia de Software - PUC-Campinas - 2025
+Bem-vindo ao repositório do NotaDez! Este projeto é uma aplicação web desenvolvida para atender docentes do ensino superior, facilitando o gerenciamento autônomo e eficiente das notas dos alunos. O sistema oferece funcionalidades avançadas além dos sistemas institucionais tradicionais, com foco em praticidade, organização e acessibilidade.
 
-## 📘 Sobre o Projeto
+O NotaDez foi desenvolvido no âmbito da disciplina Projeto Integrador 2 – Engenharia de Software da PUC-Campinas, ano 2025, pelo time 11 do PI_II_ES.
 
-O **NotaDez** é uma aplicação web desenvolvida para atender à necessidade dos professores de gerenciar de forma autônoma e eficiente as notas de seus alunos, indo além das funcionalidades oferecidas pelos sistemas institucionais. Com foco em praticidade, organização e acessibilidade, o sistema permite controle detalhado de instituições, cursos, disciplinas, turmas, estudantes e componentes de nota.
+🚀 Funcionalidades Principais
 
-O projeto foi idealizado como parte da disciplina **Projeto Integrador 2**, orientado pelos professores:
-- Prof. Me. Mateus Dias
-- Profa. Dra. Renata Arantes
-- Prof. Dr. Luã Muriana
+🏫 Gerenciamento Completo: Cadastre instituições, cursos, disciplinas e turmas com facilidade.
 
----
+📥 Importação de Estudantes: Suporte para importação via arquivos CSV e JSON.
 
-## 🎯 Objetivo do Projeto
+📝 Registro de Notas: Controle detalhado para múltiplos componentes como provas e trabalhos.
 
-Criar uma aplicação web 100% funcional que permita aos docentes:
+⚙️ Cálculo Automático: Defina fórmulas personalizadas para o cálculo automático da nota final.
 
-- Cadastrar instituições, cursos, disciplinas e turmas.
-- Importar estudantes via arquivos CSV ou JSON.
-- Registrar notas para múltiplos componentes (provas, trabalhos, etc.).
-- Definir fórmulas personalizadas para cálculo automático da nota final.
-- Ajustar notas finais manualmente, respeitando regras de arredondamento.
-- Exportar dados completos em formatos CSV e JSON.
-- Manter um painel de auditoria com histórico detalhado de alterações nas notas.
+✍️ Ajustes Manuais: Permite ajustes manuais nas notas finais com regras de arredondamento.
 
----
+📤 Exportação de Dados: Exporte dados completos em CSV e JSON.
 
-## 👥 Equipe
+🔍 Painel de Auditoria: Histórico detalhado de alterações nas notas para maior transparência.
 
-| Nome Completo           | RA       | GitHub                             |
-|-------------------------|----------|------------------------------------|
-| Lucas Rodrigues Xavier  | 25000508 | [@lucaxaviers](https://github.com/lucaxaviers) |
-| Leonardo Gambaroni Alves| 65432    | [@Leo-Alves123](https://github.com/Leo-Alves123) |
-| Mateus       | 112233   | [@mateusor](https://github.com/mateusor) |
+🛠 Tecnologias Utilizadas
+
+Ainda podemos inserir aqui as tecnologias específicas do projeto, conforme necessário.
+
+👥 Equipe
+<table> <tr> <td align="center"> <a href="https://github.com/lucaxaviers"> <img src="https://avatars.githubusercontent.com/lucaxaviers" width="100px;" alt="Lucas Xavier"/> <br /> <sub> <b>Lucas Rodrigues Xavier</b> </sub> </a> </td> <td align="center"> <a href="https://github.com/Leo-Alves123"> <img src="https://avatars.githubusercontent.com/Leo-Alves123" width="100px;" alt="Leonardo Gambaroni Alves"/> <br /> <sub> <b>Leonardo Gambaroni Alves</b> </sub> </a> </td> <td align="center"> <a href="https://github.com/mateusor"> <img src="https://avatars.githubusercontent.com/mateusor" width="100px;" alt="Mateus"/> <br /> <sub> <b>Mateus</b> </sub> </a> </td> </tr> </table>
+📚 Orientação
+
+Este projeto foi orientado pelos professores:
+
+Prof. Me. Mateus Dias
+
+Profa. Dra. Renata Arantes
+
+Prof. Dr. Luã Muriana
