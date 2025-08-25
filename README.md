@@ -35,4 +35,4 @@ Criar uma aplicação web 100% funcional que permita aos docentes:
 |-------------------------|----------|------------------------------------|
 | Lucas Rodrigues Xavier  | 25000508 | [@lucaxaviers](https://github.com/lucaxaviers) |
 | Leonardo Gambaroni Alves| 65432    | [@Leo-Alves123](https://github.com/Leo-Alves123) |
-| Beltrano da Silva       | 112233   | [@beltranodasilva](https://github.com/beltranodasilva) |
+| Mateus       | 112233   | [@mateusor](https://github.com/mateusor) |
