@@ -6,6 +6,8 @@
 
 Bem-vindo ao repositório do **NotaDez**! Este sistema web foi desenvolvido para atender às necessidades dos docentes do ensino superior, oferecendo um gerenciamento autônomo, prático e eficiente das notas dos alunos, superando as limitações dos sistemas institucionais tradicionais.
 
+---
+
 Projeto Integrador 2 – Engenharia de Software (PUC-Campinas, 2025)
 
 ---
