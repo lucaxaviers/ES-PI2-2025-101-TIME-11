@@ -79,5 +79,3 @@ Este projeto foi desenvolvido sob a orientação dos professores:
 - Prof. Dr. Luã Muriana  
 
 ---
-
-## **Atenciosamente, Time NotaDez!** (╯°□°）╯︵ ┻━┻
