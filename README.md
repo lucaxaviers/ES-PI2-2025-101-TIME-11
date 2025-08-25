@@ -8,10 +8,6 @@ Bem-vindo ao repositório do **NotaDez**! Este sistema web foi desenvolvido para
 
 ---
 
-**Projeto Integrador 2 – Engenharia de Software (PUC-Campinas, 2025)**
-
----
-
 ## 🎯 **Objetivos**
 
 - Facilitar o cadastro de instituições, cursos, disciplinas e turmas.
@@ -79,5 +75,9 @@ Este projeto foi desenvolvido sob a orientação dos professores:
 - Prof. Me. Mateus Dias  
 - Profa. Dra. Renata Arantes  
 - Prof. Dr. Luã Muriana  
+
+---
+
+**Projeto Integrador 2 – Engenharia de Software (PUC-Campinas, 2025)**
 
 ---
