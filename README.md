@@ -74,7 +74,3 @@ Este projeto será desenvolvido com a orientação dos professores:
 - Prof. Dr. Luã Muriana  
 
 ---
-
-**Projeto Integrador 2 – Engenharia de Software (PUC-Campinas, 2025)**
-
----
