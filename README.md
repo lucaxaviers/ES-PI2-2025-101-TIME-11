@@ -1,4 +1,4 @@
-# 🌟 **NotaDez - ES-PI2-2025-101-TIME-11**
+# 🌟 **NotaDez - PI_II_ES_TIME_11**
 ---
 
 **Projeto Integrador 2 – Engenharia de Software (PUC-Campinas, 2025)**
