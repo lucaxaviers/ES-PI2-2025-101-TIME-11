@@ -67,7 +67,7 @@ Bem-vindo ao repositório do **NotaDez**! Este sistema web foi desenvolvido para
 
 ## 📚 **Orientação**
 
-Este projeto foi desenvolvido sob a orientação dos professores:
+Este projeto será desenvolvido com a orientação dos professores:
 
 - Prof. Me. Mateus Dias  
 - Profa. Dra. Renata Arantes  
