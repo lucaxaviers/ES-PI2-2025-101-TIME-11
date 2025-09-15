@@ -10,25 +10,25 @@ Bem-vindo ao repositório do **NotaDez**! Este sistema web foi desenvolvido para
 
 ## 🎯 **Objetivos**
 
-Facilitar o cadastro de instituições, cursos, disciplinas e turmas.
-Permitir a importação de estudantes via arquivos CSV e JSON.
-Registrar e organizar notas em múltiplos componentes, como provas e trabalhos.
-Definir fórmulas personalizadas para o cálculo automático da nota final.
-Possibilitar ajustes manuais nas notas finais, respeitando regras de arredondamento.
-Exportar dados completos em CSV e JSON para maior flexibilidade.
-Manter um painel de auditoria com histórico detalhado de alterações nas notas.
+- Facilitar o cadastro de instituições, cursos, disciplinas e turmas.  
+- Permitir a importação de estudantes via arquivos CSV e JSON.  
+- Registrar e organizar notas em múltiplos componentes, como provas e trabalhos.  
+- Definir fórmulas personalizadas para o cálculo automático da nota final.  
+- Possibilitar ajustes manuais nas notas finais, respeitando regras de arredondamento.  
+- Exportar dados completos em CSV e JSON para maior flexibilidade.  
+- Manter um painel de auditoria com histórico detalhado de alterações nas notas. 
 
 ---
 
 ## 🚀 **Funcionalidades Principais**
 
-Gestão completa de instituições, cursos, disciplinas e turmas  
-Importação rápida de estudantes por CSV e JSON  
-Registro detalhado para diversos componentes de nota  
-Cálculo automático com fórmulas customizáveis  
-Ajustes manuais com regras de arredondamento integradas  
-Exportação de dados nos formatos CSV e JSON  
-Auditoria e histórico completo das alterações de notas  
+- Gestão completa de instituições, cursos, disciplinas e turmas  
+- Importação rápida de estudantes por CSV e JSON  
+- Registro detalhado para diversos componentes de nota  
+- Cálculo automático com fórmulas customizáveis  
+- Ajustes manuais com regras de arredondamento integradas  
+- Exportação de dados nos formatos CSV e JSON  
+- Auditoria e histórico completo das alterações de notas 
 
 ---
 
