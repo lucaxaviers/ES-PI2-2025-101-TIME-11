@@ -1,5 +1,4 @@
 # 🌟 **NotaDez - PI_II_ES_TIME_11**
----
 
 **Projeto Integrador 2 – Engenharia de Software (PUC-Campinas, 2025)**
 
@@ -7,7 +6,8 @@
 
 ## 🏢 **Sobre o Projeto**
 
-Bem-vindo ao repositório do **NotaDez**! Este sistema web será desenvolvido para atender às necessidades dos docentes do ensino superior, oferecendo um gerenciamento autônomo, prático e eficiente das notas dos alunos, superando as limitações dos sistemas institucionais tradicionais.
+Bem-vindo ao repositório do **NotaDez**!  
+Este sistema web será desenvolvido para atender às necessidades dos docentes do ensino superior, oferecendo um gerenciamento autônomo, prático e eficiente das notas dos alunos — superando as limitações dos sistemas institucionais tradicionais.
 
 ---
 
@@ -37,37 +37,33 @@ Bem-vindo ao repositório do **NotaDez**! Este sistema web será desenvolvido pa
 
 ## 👥 **Equipe**
 
-<table> 
-     <tr> 
-          <td align="center"> 
-               <a href="https://github.com/lucaxaviers"> 
-                    <img src="https://avatars.githubusercontent.com/lucaxaviers" width="100px;" alt="Lucas Xavier"/> 
-                    <br /> 
-                    <b>Lucas Xavier</b> 
-               </a> 
-          </td> 
-          <td align="center"> 
-               <a href="https://github.com/Leo-Alves123"> 
-                    <img src="https://avatars.githubusercontent.com/Leo-Alves123" width="100px;" alt="Leonardo Gambaroni Alves"/> 
-                    <br /> 
-                    <b>Leonardo Alves</b> 
-               </a> 
-          </td>
-          <td align="center">
-               <a href="https://github.com/mateusor">
-                    <img src="https://avatars.githubusercontent.com/mateusor" width="100px;" alt="Mateus"/> 
-                    <br /> 
-                    <b>Mateus Oliveira</b> 
-               </a> 
-          </td> 
-          td align="center">
-               <a href="https://github.com/GustavoaMariano">
-                    <img src="https://avatars.githubusercontent.com/GustavoaMariano" width="100px;" alt="Mateus"/> 
-                    <br /> 
-                    <b>Gustavo Mariano</b> 
-               </a> 
-          </td> 
-     </tr> 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/lucaxaviers">
+        <img src="https://avatars.githubusercontent.com/lucaxaviers" width="100px;" alt="Lucas Xavier"/><br/>
+        <b>Lucas Xavier</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Leo-Alves123">
+        <img src="https://avatars.githubusercontent.com/Leo-Alves123" width="100px;" alt="Leonardo Alves"/><br/>
+        <b>Leonardo Alves</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mateusor">
+        <img src="https://avatars.githubusercontent.com/mateusor" width="100px;" alt="Mateus Oliveira"/><br/>
+        <b>Mateus Oliveira</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/GustavoaMariano">
+        <img src="https://avatars.githubusercontent.com/GustavoaMariano" width="100px;" alt="Gustavo Mariano"/><br/>
+        <b>Gustavo Mariano</b>
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
