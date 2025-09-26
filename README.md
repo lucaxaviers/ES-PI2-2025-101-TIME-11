@@ -63,6 +63,12 @@ Este sistema web será desenvolvido para atender às necessidades dos docentes d
         <b>Gustavo Mariano</b>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/Queco06">
+        <img src="https://avatars.githubusercontent.com/Queco06" width="100px;" alt="Queco06"/><br/>
+        <b>Wanderley Viera</b>
+      </a>
+    </td>
   </tr>
 </table>
 
