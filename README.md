@@ -60,6 +60,13 @@ Bem-vindo ao repositório do **NotaDez**! Este sistema web será desenvolvido pa
                     <b>Mateus Oliveira</b> 
                </a> 
           </td> 
+          td align="center">
+               <a href="https://github.com/GustavoaMariano">
+                    <img src="https://avatars.githubusercontent.com/GustavoaMariano" width="100px;" alt="Mateus"/> 
+                    <br /> 
+                    <b>Gustavo Mariano</b> 
+               </a> 
+          </td> 
      </tr> 
 </table>
 
